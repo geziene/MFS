@@ -24,6 +24,7 @@ public class MenuView extends Composite {
 			}
 		});
 		
+		
 		/*Anchor showRaavare = new Anchor("Vis Raavare");
 		vPanel.add(showRaavare);
 		// call back the controller

@@ -1,14 +1,7 @@
 package dtu.client.ui;
 
-import java.util.List;
-
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
-import com.google.gwt.event.dom.client.KeyUpEvent;
-import com.google.gwt.event.dom.client.KeyUpHandler;
-import com.google.gwt.user.client.Window;
-import com.google.gwt.user.client.rpc.AsyncCallback;
-import com.google.gwt.user.client.ui.Anchor;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.FlexTable;
@@ -16,10 +9,9 @@ import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
+import com.google.gwt.user.client.ui.Widget;
 
 import dtu.client.service.KartotekServiceClientImpl;
-import dtu.shared.FieldVerifier;
-import dtu.client.ui.adminView;
 
 
 public class loginView extends Composite {
@@ -74,8 +66,22 @@ public class loginView extends Composite {
 	}
 public void check()
 {
-	PharmacistView pv = new PharmacistView(clientImpl);
+	Widget w = null;
+	String usr = usrTxt.getText();
+	if("10".equals(usr)){
+		w = new PharmacistView(clientImpl);
+	} else if("11".equals(usr)){
+		w = new VaerkfView(clientImpl);
+		
+	} else if("12".equals(usr)){
+		w = new OperatorView(clientImpl);
+	
+		//TODO
+	}
 	loginPanel.clear();
-	loginPanel.add(pv);
+	loginPanel.add(w);
+	
 }
+
+
 }
