@@ -1,0 +1,832 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2759 units from cache.
+Compiling...
+   10% complete (ETR: 31 seconds)
+   10% complete (ETR: 31 seconds)
+   20% complete (ETR: 25 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26.08 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766612644.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766612644.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766612644_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766615851.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766615851.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766615851_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766661237.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766661237.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766661237_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766665787.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766665787.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766665787_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766667474.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766667474.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766667474_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766667616.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766667616.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766667616_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766668984.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766668984.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766668984_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766669118.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766669118.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766669118_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766671278.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766671278.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766671278_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766787324.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766787324.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766787324_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766790671.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766790671.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766790671_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766790816.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766790816.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766790816_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766848690.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766848690.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766848690_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method buttonCellBaseBackground
+         Adding image 'com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Resources.buttonCellBaseBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Template
+         Generating method body for iconContentLayout()
+         Generating method body for iconWrapper()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.resources.client.CommonResources.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766853561.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766853561.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766853561_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766856962.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766856962.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766856962_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766865401.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766865401.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766865401_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766891164.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766891164.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766891164_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766925827.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766925827.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766925827_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766940791.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766940791.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766940791_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766944160.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766944160.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766944160_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766950976.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766950976.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766950976_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2758 cached/archived units.  Used 2758 / 2759 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766956103.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766956103.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766956103_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766956578.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766956578.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433766956578_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767189656.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767189656.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767189656_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method buttonCellBaseBackground
+         Adding image 'com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Resources.buttonCellBaseBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.cell.client.ButtonCellBase.DefaultAppearance.Template
+         Generating method body for iconContentLayout()
+         Generating method body for iconWrapper()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.resources.client.CommonResources.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767191462.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767191462.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767191462_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767191955.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767191955.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767191955_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767193477.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767193477.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767193477_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767199751.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767199751.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767199751_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767203056.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767203056.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767203056_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2759 cached/archived units.  Used 2759 / 2759 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767208605.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767208605.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767208605_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767209082.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767209082.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767209082_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767250754.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767250754.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767250754_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.MenuBar.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method menuBarSubMenuIcon
+         Adding image 'com.google.gwt.user.client.ui.MenuBar.Resources.menuBarSubMenuIcon'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767254804.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767254804.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767254804_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767260507.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767260507.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767260507_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767330007.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767330007.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767330007_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator.AdministratorUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767352557.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767352557.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding dtu.client.ui.Administrator_AdministratorUiBinderImpl_designTime1433767352557_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.Tree.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method treeClosed
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeClosed'
+      Preparing method treeLeaf
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeLeaf'
+      Preparing method treeOpen
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeOpen'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units

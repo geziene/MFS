@@ -24,9 +24,9 @@ public class BrowseView extends Composite {
 		initWidget(this.browsePanel);
 
 		final FlexTable t = new FlexTable();
-		t.getFlexCellFormatter().setWidth(0, 0, "50px");
-		t.getFlexCellFormatter().setWidth(0, 1, "200px");
-		t.getFlexCellFormatter().setWidth(0, 2, "50px");
+		t.getFlexCellFormatter().setWidth(0, 0, "150px");
+		t.getFlexCellFormatter().setWidth(0, 1, "600px");
+		t.getFlexCellFormatter().setWidth(0, 2, "150px");
 
 		t.addStyleName("FlexTable");
 		t.getRowFormatter().addStyleName(0,"FlexTable-Header");
