@@ -69,7 +69,7 @@ public void check()
 	Widget w = null;
 	String usr = usrTxt.getText();
 	if("9".equals(usr)){
-		w = new AdministratorView(clientImpl);
+		w = new adminView(clientImpl);
 	} else if("10".equals(usr)){
 		w = new PharmacistView(clientImpl);
 		
